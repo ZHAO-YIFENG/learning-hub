@@ -30,7 +30,7 @@ Each topic is organized independently, with its own structure and navigation.
 ---
 
 ## Repository Structure
-
+```text
 learning-hub/
 ├─ math/          # Mathematics notes
 ├─ ai/            # Artificial intelligence notes
@@ -40,8 +40,8 @@ learning-hub/
 ├─ ROADMAP.md     # Learning progress and future plans
 ├─ LICENSE        # License for text and code in this repository
 └─ README.md      # Project overview
-
-
+```
+    
 
 Each major directory contains its own `README.md` explaining:
 - covered topics
